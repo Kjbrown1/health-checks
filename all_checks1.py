@@ -28,10 +28,11 @@ def main():
         print("Pending Reboot.")
         sys.exit(1)
     if check_root_full():
-        print("Root partition is full")
+        print("Root partition full")
         sys.exit(1)
 
     print("Everything is ok.")
     sys.exit(0)
 
 main()
+
