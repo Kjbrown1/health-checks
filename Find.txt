@@ -1,0 +1,2 @@
+Rinning push sequence to fork repo. 
+Checking permision output for push to repo.
